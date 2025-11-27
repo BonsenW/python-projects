@@ -1,4 +1,4 @@
-# Python Projects
+# Python Projects For Learning
 
 Upon starting my personal python journey, i wanted to log my progress throughout the years (as well as learn how to use github). This basic repository will thus be used to catalogue and keep track of my python project journey.
 
